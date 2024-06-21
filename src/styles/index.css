@@ -8,33 +8,26 @@
     font-family: 'thinfont';
     src: url(/thinfont-thin.ttf) format('truetype');
   }
+  
+  body {
+    background-color: #292929;
+    
+  }
 
-.container {
+  .container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     height: 90vh;
   }
-  
-  .text {
-    font-size: 24px;
-  }
-  
-  .link {
-    text-decoration: none;
-    color: red;
-  }
-  
-body {
-    background-color: #292929;
-    
-  }
+
   h1{
     color: #94e0f5;
     font-size: 3rem;
     font-family: 'Cakecafe';
   }
+
   p{
     color: #fff;
     width: 60vh;
@@ -50,5 +43,3 @@ body {
   .logo{
     width: 20%;
   }
-
- 
