@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: 'Cakecafe' ;
+    src: url(/Cakecafe.otf) format('opentype');
+  }
+
+  @font-face {
+    font-family: 'thinfont';
+    src: url(/thinfont-thin.ttf) format('truetype');
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+  }
+  
+  .text {
+    font-size: 24px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: red;
+  }
+  
+body {
+    background-color: #292929;
+    
+  }
+  h1{
+    color: #94e0f5;
+    font-size: 3rem;
+    font-family: 'Cakecafe';
+  }
+  p{
+    color: #fff;
+    width: 60vh;
+    text-align: justify;
+    font-size: 1.2rem;
+    font-family:'thinfont';
+  }
+
+  img{
+    width: 70px;
+  }
+
+  .logo{
+    width: 20%;
+  }
+
+ 
