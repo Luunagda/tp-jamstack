@@ -6,7 +6,7 @@ export default function Home() {
     <div className="container">
       <h1>Cyan Henaff</h1>
       <img className="logo" alt="Logo venant du film d'animation Nausicaa de la vallée du vent" src="/logo.png"/>
-      <p>Étudiante en 3ème année de Bachelor Universitaire de Technologie des Métiers du Multimédia et de l'Internet (BUT MMI) parcours Développement web et Dispositif Interactif.</p>
+      <p>Je sui étudiante en 3ème année de Bachelor Universitaire de Technologie des Métiers du Multimédia et de l'Internet (BUT MMI) parcours Développement web et Dispositif Interactif. Je réalise actuellement mon alternance à Lagoon, un fournisseur d'accès à internet de Nouvelle-Calédonie.</p>
       <p>Pour garder contact :</p>
       <div>
         <a href="https://www.instagram.com/cyanhenaff/">
